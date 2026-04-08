@@ -1,4 +1,6 @@
 # Autonomous Data Analysis & Intelligence Platform
+<img width="1920" height="872" alt="Screenshot 2026-04-08 195135" src="https://github.com/user-attachments/assets/3a442a18-0fb4-4e81-9513-5a22a08a54e9" />
+<img width="1913" height="824" alt="Screenshot 2026-04-08 195726" src="https://github.com/user-attachments/assets/fa16b60a-7633-4a08-8c19-c580bc96eccd" />
 
 A production-grade system that automatically transforms raw data into insights, models, and reports with minimal human intervention.
 
